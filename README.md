@@ -1,4 +1,4 @@
-/discord/:https://discord.gg/herobrine
+/discord/:discord.gg/herobrine
 
 # Scripts
 Random scripts
