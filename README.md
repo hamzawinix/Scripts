@@ -1,4 +1,3 @@
-[f](https://img.shields.io/discord/521382216299839518/546650767495397376)
-
+https://img.shields.io/discord/473760315293696010
 # Scripts
 Random scripts
